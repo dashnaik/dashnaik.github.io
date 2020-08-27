@@ -1,5 +1,5 @@
 
-alert("Making this for Bday of My Friend \nMy Friend Name is : Bhagya\nShe is a allrounder🤫🤫🤫🤫Helping Nature🤫🤫🤫🤫");
+alert("Making this for Bday of My Friend \n My Friend Name is : Bhagya\nShe is a allrounder🤫🤫🤫🤫Helping Nature🤫🤫🤫🤫");
 var force;
 var firework =[] ;
 function setup(){
